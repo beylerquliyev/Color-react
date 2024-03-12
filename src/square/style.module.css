@@ -1,0 +1,96 @@
+.card1{
+    width: 200px;
+    height: 200px;
+    background-color: #16A085;
+    border-radius: 20px;
+}
+.card2{
+    width: 200px;
+    height: 200px;
+    background-color: #FFA07A;
+    border-radius: 20px;
+ 
+   
+}
+.card3{
+    width: 200px;
+    height: 200px;
+    background-color: #7D3C98;
+    border-radius: 20px;
+
+}
+.card4{
+    width: 200px;
+    height: 200px;
+    background-color: #E67E22;
+    border-radius: 20px;
+
+}
+.card5{
+    width: 200px;
+    height: 200px;
+    background-color: #2ECC71;
+    border-radius: 20px;
+
+}
+
+.card6{
+    width: 200px;
+    height: 200px;
+    background-color: #7FFFD4;
+    border-radius: 20px;
+
+}
+
+.card7{
+    width: 200px;
+    height: 200px;
+    background-color: #F0E68C;
+    border-radius: 20px;
+
+}
+
+.card7{
+    width: 200px;
+    height: 200px;
+    background-color: #FF6F61
+    ;
+    border-radius: 20px;
+
+}
+.card8{
+    width: 200px;
+    height: 200px;
+    background-color: #4B0082
+    ;
+    border-radius: 20px;
+
+ 
+
+}
+
+.card9{
+    width:200px;
+    height: 200px;
+    background-color: #006400
+    ;
+    border-radius: 20px;
+
+ 
+
+}
+.fullDiv{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+       
+}
+.fullDiv2{
+    display: flex;
+    align-items: center;
+    background-color: rgb(240, 204, 160);
+}
+
